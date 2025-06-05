@@ -45,7 +45,7 @@ I’m a full-stack developer focused on the MERN stack, with expertise in React.
 ![Zod](https://img.shields.io/badge/Zod-4A90E2.svg?style=for-the-badge) 
 ![BEM](https://img.shields.io/badge/BEM-000000.svg?style=for-the-badge) 
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0DB7ED?style=for-the-badge&logo=responsive&logoColor=white) 
-![RTL Support](https://img.shields.io/badge/Farsi%20%2F%20RTL%20Support-009688?style=for-the-badge)
+![RTL Support](https://img.shields.io/badge/RTL%20Support-009688?style=for-the-badge)
 
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
