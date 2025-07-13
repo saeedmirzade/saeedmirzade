@@ -121,7 +121,7 @@ I’m a full-stack developer focused on the MERN stack, with expertise in React.
 ## 🛍️ Beautiy Online Shop
 
 <p align="center">
-  <img src="./images/sceenshot21.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot21.png" width="350" style="margin:10px;" />
 </p>
 
 ## 🤖 ITSYourwai (More)
@@ -135,11 +135,11 @@ I’m a full-stack developer focused on the MERN stack, with expertise in React.
 ## 🙋‍♂️ Personal Portfolio
 
 <p align="center">
-  <img src="./images/sceenshot25.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot25.png" width="350" style="margin:10px;" />
 </p>
 
 ## 🎟️ Ticketing Management System
 
 <p align="center">
-  <img src="./images/sceenshot26.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot26.png" width="350" style="margin:10px;" />
 </p>
