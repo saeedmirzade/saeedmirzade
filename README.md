@@ -6,6 +6,7 @@ I’m a Senior Full-Stack Developer with deep expertise in the MERN stack, speci
 With a solid command of both frontend and backend development, I deliver end-to-end solutions — from intuitive, high-performance user interfaces to optimized, secure server-side systems. I thrive in fast-paced environments and enjoy solving complex problems with efficient code and smart design patterns.
 
 <br>
+<br>
 🤝 Open to Collaborate On:
 
 Large-scale, high-impact full-stack applications
