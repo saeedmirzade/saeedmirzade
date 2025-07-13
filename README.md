@@ -70,80 +70,76 @@ I’m a full-stack developer focused on the MERN stack, with expertise in React.
 
 ## ✅ Checked And Verified
 
-<p style="background: #8080802b;
-    border-radius: 10px;
-    grid-template-columns: 1fr 1fr;
-    display: grid;
-    gap: 10px;">
-  <img src="./images/sceenshot1.png" width="400" style="margin:10px; " />
-  <img src="./images/sceenshot2.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot1.png" width="300" style="margin:10px; " />
+  <img src="./images/sceenshot2.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🌐 Universai
 
-<p>
-  <img src="./images/sceenshot3.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot4.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot3.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot4.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🤖 ITSYourwai
 
-<p>
-  <img src="./images/sceenshot5.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot6.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot7.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot8.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot9.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot5.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot6.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot7.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot8.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot9.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🚚 Logisticly Unique
 
-<p>
-  <img src="./images/sceenshot10.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot11.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot12.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot13.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot10.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot11.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot12.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot13.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🏛️ Goverme
 
-<p>
-  <img src="./images/sceenshot14.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot15.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot16.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot14.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot15.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot16.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🛠️ Hiprax Admin Template
 
-<p>
-  <img src="./images/sceenshot18.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot19.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot20.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot17.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot18.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot19.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot20.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot17.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🛍️ Beautiy Online Shop
 
-<p>
-  <img src="./images/sceenshot21.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot21.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🤖 ITSYourwai (More)
 
-<p>
-  <img src="./images/sceenshot22.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot23.png" width="400" style="margin:10px;" />
-  <img src="./images/sceenshot24.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot22.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot23.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot24.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🙋‍♂️ Personal Portfolio
 
-<p>
-  <img src="./images/sceenshot25.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot25.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🎟️ Ticketing Management System
 
-<p>
-  <img src="./images/sceenshot26.png" width="400" style="margin:10px;" />
+<p align="center">
+  <img src="./images/sceenshot26.png" width="300" style="margin:10px;" />
 </p>
