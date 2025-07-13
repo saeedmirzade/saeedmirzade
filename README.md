@@ -9,6 +9,9 @@ With a solid command of both frontend and backend development, I deliver end-to-
 <br>
 🤝 Open to Collaborate On:
 <br>
+<br>
+<br>
+<br>
 
 Large-scale, high-impact full-stack applications
 
