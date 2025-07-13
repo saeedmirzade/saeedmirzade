@@ -89,7 +89,7 @@ I’m a full-stack developer focused on the MERN stack, with expertise in React.
   <img src="./images/sceenshot6.png" width="300" style="margin:10px;" />
   <img src="./images/sceenshot7.png" width="300" style="margin:10px;" />
   <img src="./images/sceenshot8.png" width="300" style="margin:10px;" />
-  <img src="./images/sceenshot9.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot9.png" width="350" style="margin:10px;" />
 </p>
 
 ## 🚚 Logisticly Unique
@@ -106,16 +106,16 @@ I’m a full-stack developer focused on the MERN stack, with expertise in React.
 <p align="center">
   <img src="./images/sceenshot14.png" width="300" style="margin:10px;" />
   <img src="./images/sceenshot15.png" width="300" style="margin:10px;" />
-  <img src="./images/sceenshot16.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot16.png" width="350" style="margin:10px;" />
 </p>
 
 ## 🛠️ Hiprax Admin Template
 
 <p align="center">
 
-  <img src="./images/sceenshot19.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot18.png" width="300" style="margin:10px;" />
   <img src="./images/sceenshot20.png" width="300" style="margin:10px;" />
-  <img src="./images/sceenshot17.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot17.png" width="350" style="margin:10px;" />
 </p>
 
 ## 🛍️ Beautiy Online Shop
