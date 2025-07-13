@@ -1,6 +1,20 @@
 # 💫 About Me:
 
-I’m a full-stack developer focused on the MERN stack, with expertise in React.js, SCSS, TypeScript, MongoDB, and Node.js. My core strength lies in building intuitive, scalable, and high-performance user interfaces that are both secure and fast.<br><br>I'm currently working on<br>Developing a print-on-demand platform, an AI image generator website, a multi-vendor marketplace, and a personal service website.<br><br>I'm looking to collaborate on<br>Full-stack development projects, focusing on scalable and high-performance web applications. I’m always open to contributing to open-source projects and collaborating with fellow developers.<br><br>I'm currently expanding my knowledge in<br>Backend development, with a focus on server-side optimization, security, and performance tuning.
+I’m a Senior Full-Stack Developer with deep expertise in the MERN stack, specializing in React.js, Node.js, TypeScript, SCSS, and MongoDB. I design and build robust, scalable, and secure web applications with a strong emphasis on performance, maintainability, and clean architecture.
+
+<br>
+With a solid command of both frontend and backend development, I deliver end-to-end solutions — from intuitive, high-performance user interfaces to optimized, secure server-side systems. I thrive in fast-paced environments and enjoy solving complex problems with efficient code and smart design patterns.
+
+<br>
+🤝 Open to Collaborate On:
+
+Large-scale, high-impact full-stack applications
+
+Backend architecture, API design, and performance tuning
+
+Frontend systems with advanced interactivity and UX focus
+
+Open-source initiatives and developer tooling
 
 ## 🌐 Socials:
 
