@@ -106,7 +106,7 @@ I’m a full-stack developer focused on the MERN stack, with expertise in React.
 <p align="center">
   <img src="./images/sceenshot14.png" width="300" style="margin:10px;" />
   <img src="./images/sceenshot15.png" width="300" style="margin:10px;" />
-  <img src="./images/sceenshot16.png" width="350" style="margin:10px;" />
+  <img src="./images/sceenshot16.png" width="300" style="margin:10px;" />
 </p>
 
 ## 🛠️ Hiprax Admin Template
