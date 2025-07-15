@@ -23,6 +23,7 @@ Open-source initiatives and developer tooling
 ## 🌐 Socials:
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saeed.mzfreelance@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-mirzade-2a18712a6)
 
 # 💻 Tech Stack:
 
