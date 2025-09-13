@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-I’m a Senior Full-Stack Developer with deep expertise in the MERN stack, specializing in React.js, Node.js, TypeScript, SCSS, and MongoDB. I design and build robust, scalable, and secure web applications with a strong emphasis on performance, maintainability, and clean architecture.
+I’m a Senior Full-Stack Developer with deep expertise in the MERN stack and React Native, specializing in React.js, React Native, Node.js, TypeScript, SCSS, and MongoDB. I design and build robust, scalable, and secure web and mobile applications with a strong focus on performance, maintainability, and clean architecture
 
 <br>
-With a solid command of both frontend and backend development, I deliver end-to-end solutions — from intuitive, high-performance user interfaces to optimized, secure server-side systems. I thrive in fast-paced environments and enjoy solving complex problems with efficient code and smart design patterns.
+With a solid command of both frontend and backend development, I deliver end-to-end solutions — from intuitive, high-performance user interfaces to optimized, secure server-side systems. I thrive in fast-paced environments and enjoy solving complex problems using efficient code and smart design patterns.
 
 <br>
 <br>
@@ -12,14 +12,13 @@ With a solid command of both frontend and backend development, I deliver end-to-
 
 <br>
 
-Large-scale, high-impact full-stack applications
+Large-scale, high-impact full-stack web and mobile applications
 
 Backend architecture, API design, and performance tuning
 
-Frontend systems with advanced interactivity and UX focus
+Frontend and mobile systems with advanced interactivity and UX focus
 
 Open-source initiatives and developer tooling
-
 ## 🌐 Socials:
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saeed.mzfreelance@gmail.com)
