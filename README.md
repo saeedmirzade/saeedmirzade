@@ -36,9 +36,9 @@ Open-source initiatives and developer tooling
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-FF7139?style=for-the-badge)
-![Web Crawling](https://img.shields.io/badge/Web_Crawling-FF6F61?style=for-the-badge)
-![Web Testing](https://img.shields.io/badge/Web_Testing-6A0DAD?style=for-the-badge)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-FF7139?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Web Crawling](https://img.shields.io/badge/Web_Crawling-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Web Testing](https://img.shields.io/badge/Web_Testing-6A0DAD?style=for-the-badge&logo=selenium&logoColor=white)
 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
@@ -71,6 +71,7 @@ Open-source initiatives and developer tooling
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Zod](https://img.shields.io/badge/Zod-4A90E2?style=for-the-badge)
+![Joi](https://img.shields.io/badge/Joi-007ACC?style=for-the-badge)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0DB7ED?style=for-the-badge&logo=responsive&logoColor=white)
 ![RTL Support](https://img.shields.io/badge/RTL%20Support-009688?style=for-the-badge)
