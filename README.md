@@ -27,8 +27,6 @@ Open-source initiatives and developer tooling
 
 # 💻 Tech Stack
 
-# 💻 Tech Stack:
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -70,17 +68,17 @@ Open-source initiatives and developer tooling
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Zod](https://img.shields.io/badge/Zod-4A90E2?style=for-the-badge&logo=typescript&logoColor=white)
-![Joi](https://img.shields.io/badge/Joi-007ACC?style=for-the-badge&logo=node.js&logoColor=white)
-![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=sass&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-0DB7ED?style=for-the-badge&logo=html5&logoColor=white)
-![RTL Support](https://img.shields.io/badge/RTL%20Support-009688?style=for-the-badge&logo=css3&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-4A90E2?style=for-the-badge)
+![Joi](https://img.shields.io/badge/Joi-007ACC?style=for-the-badge)
+![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0DB7ED?style=for-the-badge&logo=responsive&logoColor=white)
+![RTL Support](https://img.shields.io/badge/RTL%20Support-009688?style=for-the-badge)
 
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=Google&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-4B32C3?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 🖼️ Project Screenshot
