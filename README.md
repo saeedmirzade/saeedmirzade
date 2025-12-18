@@ -70,11 +70,11 @@ Open-source initiatives and developer tooling
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Zod](https://img.shields.io/badge/Zod-4A90E2?style=for-the-badge)
-![Joi](https://img.shields.io/badge/Joi-007ACC?style=for-the-badge)
-![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-0DB7ED?style=for-the-badge&logo=responsive&logoColor=white)
-![RTL Support](https://img.shields.io/badge/RTL%20Support-009688?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-4A90E2?style=for-the-badge&logo=typescript&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-007ACC?style=for-the-badge&logo=node.js&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=sass&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0DB7ED?style=for-the-badge&logo=html5&logoColor=white)
+![RTL Support](https://img.shields.io/badge/RTL%20Support-009688?style=for-the-badge&logo=css3&logoColor=white)
 
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=Google&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
