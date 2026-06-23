@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m a Senior Full-Stack Developer with deep expertise in the MERN stack and React Native, specializing in React.js, React Native, Node.js, TypeScript, SCSS, and MongoDB. I design and build robust, scalable, and secure web and mobile applications with a strong focus on performance, maintainability, and clean architecture
+I’m a Senior Full-Stack Developer since 2022 with deep expertise in the MERN stack and React Native, specializing in React.js, React Native, Node.js, TypeScript, SCSS, and MongoDB. I design and build robust, scalable, and secure web and mobile applications with a strong focus on performance, maintainability, and clean architecture
 
 <br>
 With a solid command of both frontend and backend development, I deliver end-to-end solutions — from intuitive, high-performance user interfaces to optimized, secure server-side systems. I thrive in fast-paced environments and enjoy solving complex problems using efficient code and smart design patterns.
@@ -82,6 +82,23 @@ Open-source initiatives and developer tooling
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 🖼️ Project Screenshot
+
+## ✅ Yape WordCup
+
+<p align="center">
+  <img src="./images/sceenshot33.png" width="300" style="margin:10px; " />
+  <img src="./images/sceenshot32.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot31.png" width="300" style="margin:10px;" />
+</p>
+
+## ✅ Samu Wellness
+
+<p align="center">
+  <img src="./images/sceenshot27.png" width="300" style="margin:10px; " />
+  <img src="./images/sceenshot28.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot29.png" width="300" style="margin:10px;" />
+  <img src="./images/sceenshot30.png" width="300" style="margin:10px;" />
+</p>
 
 ## ✅ Checked And Verified
 
