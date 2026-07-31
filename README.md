@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m a Senior Full-Stack Developer since 2022 with deep expertise in the MERN stack and React Native, specializing in React.js, React Native, Node.js, TypeScript, SCSS, and MongoDB. I design and build robust, scalable, and secure web and mobile applications with a strong focus on performance, maintainability, and clean architecture
+I’m a Experienced Full-Stack Developer since 2022 with deep expertise in the MERN stack and React Native, specializing in React.js, React Native, Node.js, TypeScript, SCSS, and MongoDB. I design and build robust, scalable, and secure web and mobile applications with a strong focus on performance, maintainability, and clean architecture
 
 <br>
 With a solid command of both frontend and backend development, I deliver end-to-end solutions — from intuitive, high-performance user interfaces to optimized, secure server-side systems. I thrive in fast-paced environments and enjoy solving complex problems using efficient code and smart design patterns.
