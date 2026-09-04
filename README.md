@@ -120,26 +120,7 @@ fun_fact: "I turn 'just an idea' into a working prototype overnight 🌙"
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="6px"/>
 
-## 📊 Live Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saeedmirzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9C27B0&icon_color=6C63FF&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedmirzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9C27B0" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedmirzade&theme=tokyonight&hide_border=true&background=0D1117&ring=9C27B0&fire=FF5F6D&currStreakLabel=9C27B0" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedmirzade&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9C27B0&line=6C63FF&point=FF5F6D" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saeedmirzade&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="6px"/>
 
 ## 🐍 Contribution Snake
 
