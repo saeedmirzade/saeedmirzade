@@ -21,17 +21,14 @@
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.05"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
-
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="url(#gridFade)" stroke-width="1"/>
     </pattern>
-
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="15" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
   </defs>
-
   <rect width="1000" height="320" fill="url(#bgGlow)"/>
   <rect width="1000" height="320" fill="url(#grid)"/>
 
@@ -57,12 +54,10 @@
 
   <g transform="translate(620, 105)">
     <rect width="320" height="175" rx="14" fill="#030712" fill-opacity="0.7" stroke="url(#glassBorder)" stroke-width="1"/>
-    
     <circle cx="20" cy="18" r="4" fill="#EF4444" opacity="0.7"/>
     <circle cx="34" cy="18" r="4" fill="#F59E0B" opacity="0.7"/>
     <circle cx="48" cy="18" r="4" fill="#10B981" opacity="0.7"/>
     <line x1="0" y1="34" x2="320" y2="34" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
-
     <g transform="translate(18, 55)" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11">
       <text x="0" y="0" fill="#64748B">const <tspan fill="#A5B4FC">developer</tspan> = {</text>
       <text x="12" y="18" fill="#64748B">exp: <tspan fill="#F472B6">'Since 2022'</tspan>,</text>
@@ -155,7 +150,6 @@
     </td>
   </tr>
 </table>
-
 `React` `TypeScript` `Real-Time Data` `TailwindCSS`
 
 ---
@@ -171,7 +165,6 @@
     <td width="25%" align="center"><img src="./images/sceenshot30.png" width="100%" style="border-radius: 10px; border: 1px solid rgba(165,180,252,0.2);" alt="Samu 4"/></td>
   </tr>
 </table>
-
 `Next.js` `State Management` `REST API` `UI/UX`
 
 ---
@@ -191,7 +184,6 @@
     </td>
   </tr>
 </table>
-
 `Node.js` `Express` `MongoDB` `Chart.js` `WebSockets`
 
 ---
@@ -216,10 +208,11 @@
   <summary><b>View Additional Selected Projects &amp; Screenshots</b></summary>
   <br/>
   
-  * **Checked And Verified:** `./images/sceenshot1.png`, `./images/sceenshot2.png`
-  * **Beauty Online Shop:** `./images/sceenshot21.png`
-  * **Ticketing Management System:** `./images/sceenshot26.png`
-  * **Personal Portfolio Platform:** `./images/sceenshot25.png`
+  * **Checked And Verified:** ./images/sceenshot1.png`,
+  * ./images/sceenshot2.png`
+  * **Beauty Online Shop:** ./images/sceenshot21.png`
+  * **Ticketing Management System:** ./images/sceenshot26.png`
+  * **Personal Portfolio Platform:** ./images/sceenshot25.png`
   
 </details>
 
